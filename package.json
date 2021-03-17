@@ -1,0 +1,11 @@
+{
+  "name": "learn-about-me",
+  "version": "1.0.0",
+  "description": "A Simple Social Media Application built using NodeJS, Express, and MongoDB",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kiran Hegde",
+  "license": "ISC"
+}
